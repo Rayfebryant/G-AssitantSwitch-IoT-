@@ -36,7 +36,7 @@
 
 * Here we will add some phases we want the assistant to recognize and do a task, I have used "Turn on relay 1" as the trigger, below there are two more optional where we can add the phrases in different forms.
 
-* Finally in the last field we have to add a response phrase which the google assistant will use to give a replay. I have use "Switch on"
+* Finally in the last field we have to add a response phrase which the google assistant will use to give a replay. I have use "Switch is on"
 
 * Now click on "Create Trigger" to finalize the trigger.
 
